@@ -1,0 +1,7 @@
+node_modules/
+dist/
+
+# 認証情報は絶対にコミットしない
+client_secret*.json
+*service-account*.json
+token.json
